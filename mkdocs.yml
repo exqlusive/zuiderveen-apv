@@ -1,0 +1,41 @@
+site_name: Regelgeving
+site_author: 'ZuiderVeen'
+
+nav:
+  - Hoofdpagina: index.md
+  - PC-Checks: PCCheckbeleid.pdf
+  - Informatie: informatie.md
+  - Regels: regels.md
+  - Straffen: straffen.md
+  - Wetboek: wetboek.md
+  - Kostenlijst: kostenlijst.md
+theme:
+  name: material
+  language: nl
+  logo: images/logo.png
+  favicon: images/favicon.ico 
+  
+  palette:
+    - scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      primary: custom
+      accent: custom 
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+  features:
+    - navigation.sections
+    - search.highlight
+    - search.share
+
+# CSS
+extra_css:
+  - stylesheets/extra.css
+
+# Copyright
+copyright: Copyright &copy; 2026 ZuiderVeen

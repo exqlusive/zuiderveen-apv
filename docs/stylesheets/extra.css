@@ -1,0 +1,109 @@
+:root {
+  --zv-geel: #ddff33;
+  --zv-geel-donker: #9fc000;
+  --zv-zwart: #242424;
+  --zv-grijs: #2c2c2c;
+  --zv-lichtgrijs: #eeeeee;
+  --zv-rood: #ff3333;
+  --zv-orange: #ff8833;
+  
+  --md-primary-fg-color: var(--zv-zwart);
+  --md-primary-fg-color--light: var(--zv-grijs);
+  --md-primary-fg-color--dark: #1a1a1a;
+  --md-primary-bg-color: #ffffff;
+  --md-primary-bg-color--light: #fcfcfc;
+  --md-accent-fg-color: var(--zv-geel);
+  --md-default-bg-color: #fafafa;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: var(--zv-zwart);
+  --md-primary-fg-color--light: var(--zv-grijs);
+  --md-primary-fg-color--dark: #1a1a1a;
+  --md-default-bg-color: var(--zv-zwart);
+  --md-default-fg-color: var(--zv-lichtgrijs);
+  --md-accent-fg-color: var(--zv-geel);
+}
+
+.md-header {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+  background-color: var(--zv-geel-donker) !important;
+}
+
+.md-nav__link--active {
+  color: var(--zv-geel-donker) !important;
+}
+
+.md-typeset h2,
+.md-typeset h3 {
+  color: var(--zv-geel-donker);
+}
+
+.md-typeset h3 strong {
+  color: var(--zv-geel-donker);
+}
+
+.md-footer {
+  background-color: var(--zv-geel-donker) !important;
+}
+
+[data-md-color-scheme="slate"] .md-footer {
+  background-color: var(--zv-geel-donker) !important;
+}
+
+.md-footer-meta,
+.md-footer-meta__inner,
+.md-footer-nav {
+  background-color: var(--zv-geel-donker) !important;
+}
+
+[data-md-color-scheme="slate"] .md-footer-meta,
+[data-md-color-scheme="slate"] .md-footer-meta__inner,
+[data-md-color-scheme="slate"] .md-footer-nav {
+  background-color: var(--zv-geel-donker) !important;
+}
+
+[data-md-color-scheme="slate"] .md-footer__inner {
+  color: white !important;
+}
+
+[data-md-color-scheme="slate"] .md-footer a {
+  color: white !important;
+}
+
+.md-footer__inner {
+  color: white;
+}
+
+.md-footer a {
+  color: white;
+}
+
+.md-footer a:hover {
+  color: var(--zv-geel);
+}
+
+[data-md-color-scheme="slate"] .md-footer a:hover {
+  color: var(--zv-geel) !important;
+}
+
+.md-typeset table a[href*="discord"] {
+  color: white !important;
+  background-color: var(--zv-geel-donker) !important;
+  padding: 4px 8px;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+.md-typeset table a[href*="discord"]:hover {
+  background-color: var(--zv-geel) !important;
+  color: var(--zv-zwart) !important;
+}
+
+.md-typeset a {
+  color: var(--zv-geel-donker);
+}
+
+.md-typeset a:hover {
+  color: var(--zv-geel);
+}
