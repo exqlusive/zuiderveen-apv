@@ -10,7 +10,7 @@ Dit wetboek is enkel voor recreatief gebruik binnen ZuiderVeen.
 
 ### **Artikel 1: Reikwijdte**
 
-Een ieder die zich in de stad Zuiderveen bevindt dient zich te houden aan de wetten en regelgeving beschreven in het Wetboek Zuiderveen. Het is aan elke burger om de wet te kennen en wijzigingen in de gaten te houden.
+Een ieder die zich in de stad ZuiderVeen bevindt dient zich te houden aan de wetten en regelgeving beschreven in het Wetboek ZuiderVeen. Het is aan elke burger om de wet te kennen en wijzigingen in de gaten te houden.
 
 ### **Artikel 2: Strafbepaling**
 
@@ -49,7 +49,7 @@ Bij meerdere strafbare feiten waarbij de straf een combinatie vormt van een cels
 
 Elke verdachte, behalve degene die zich schuldig maakt (poging) tot uitbraak of medeplichtigheid (zie Wet Penitentiaire Inrichtingen) heeft recht op een advocaat. Wanneer een verdachte vraagt om een advocaat, dient de politie hierin gehoor te geven door een advocaat op te roepen in de stad of via Discord. Als er een advocaat beschikbaar is, wordt deze geacht de verdachte bij te staan. De Advocaat heeft 10 minuten na oproep om te melden dat deze onderweg is.
 
-Als een verdachte om een advocaat vraagt, kan de aanhouding ook getoetst door een Hulpofficier van Justitie. De Hulpofficier van Justitie is een medewerker van de politie die minstens de rang Inspecteur draagt. De HovJ toetst of de aanhouding rechtmatig is en bepaalt de strafeis. De Hulpofficier van Justitie komt er alleen bij als deze beschikbaar is, anders wordt de afhandeling behandeld door een andere medewerker van de politie.
+Als een verdachte om een advocaat vraagt, kan de aanhouding ook getoetst worden door een Hulpofficier van Justitie. De Hulpofficier van Justitie is een medewerker van de politie die minstens de rang Inspecteur draagt. De HovJ toetst of de aanhouding rechtmatig is en bepaalt de strafeis. De Hulpofficier van Justitie komt er alleen bij als deze beschikbaar is, anders wordt de afhandeling behandeld door een andere medewerker van de politie.
 
 Wanneer een verdachte het oneens is met de bepaling van de Hulpofficier van Justitie kan deze in bezwaar gaan via de Overheid Discord door een ticket aan te maken. Vervolgens zal het bezwaar in behandeling worden genomen door de Officier van Justitie, die een eindoordeel maakt. Dat oordeel staat vast en daartegen kan niet in beroep worden gegaan.
 
@@ -60,7 +60,7 @@ Wanneer een verdachte het oneens is met de bepaling van de Hulpofficier van Just
 
 ### **Artikel 5: Openstaande boetes**
 
-Bij een aanhouding en/of staande houding kan er gekeken worden naar de openstaande boetes. Bij een openstaand totaal bedrag van **€20.000,-** wegens overtredingen/misdrijven kan de verdachte worden gedwongen tot betaling van de boetes;
+Bij een aanhouding en/of staandehouding kan er gekeken worden naar de openstaande boetes. Bij een openstaand totaal bedrag van **€20.000,-** wegens overtredingen/misdrijven kan de verdachte worden gedwongen tot betaling van de boetes;
 
 1. Boetebedrag kan worden afgedwongen middels celstraf. **Per 1.000 euro 2 maanden gevangenisstraf.**  
 2. Bij het uitzitten van de straf zal de openstaande boete niet komen te vervallen.
@@ -104,7 +104,7 @@ De ambtenaar van politie is bevoegd tijdens rechtmatige werkzaamheden geweld of 
 
 ### **Artikel 3: Geweldsmiddelen**
 
-De ambtenaar van politie is bevoegd onderstaande geweldsmiddelen te gebruiken volgens de wijze van artikel 2 genoemd. Een uitzondering is de Dienst Speciale Interventies, Dienst Landelijke Recherche en het AOT (Arrestatie & Ondersteuningsteam), de richtlijnen van dienstwapens bij specialistische diensten worden niet in het Wetboek Zuiderveen verwerkt. Daarvoor zijn interne richtlijnen vastgesteld.
+De ambtenaar van politie is bevoegd onderstaande geweldsmiddelen te gebruiken volgens de wijze van artikel 2 genoemd. Een uitzondering is de Dienst Speciale Interventies, Dienst Landelijke Recherche en het AOT (Arrestatie & Ondersteuningsteam), de richtlijnen van dienstwapens bij specialistische diensten worden niet in het Wetboek ZuiderVeen verwerkt. Daarvoor zijn interne richtlijnen vastgesteld.
 
 **Vuurwapen**:
 
@@ -184,7 +184,7 @@ Iedere opsporingsambtenaar is bevoegd de identiteit van de verdachte vast te ste
 
 **Vatbaar voor inbeslagname:**
 
-- Een voorwerp dat verboden is gesteld in het Wetboek Zuiderveen.  
+- Een voorwerp dat verboden is gesteld in het Wetboek ZuiderVeen.  
 - Full color hesjes van verboden motorclubs.
 
 **Vatbaar voor inbeslagname (verkeer):**
@@ -195,7 +195,7 @@ Iedere opsporingsambtenaar is bevoegd de identiteit van de verdachte vast te ste
 - Artikel 9.4: Een voertuig dat 100% boven de toegestane snelheid rijdt wordt in beslag genomen voor geen tijd.  
 - Artikel 9.5: Een voertuig waarmee/waaruit geschoten wordt, wordt in beslag genomen voor 2 dagen.  
 - Artikel 9.6: Een voertuig dat direct betrokken is bij een strafbaar feit volgens MEOS categorie 3 wordt in beslag genomen voor 2 dagen.  
-- Artikel 9.7: Een voertuig dat rondrijdt met een verlopen APK of een actieve WOK status \+ waarschuwing wordt in beslag genomen voor 1 dag.
+- Artikel 9.7: Een voertuig dat rondrijdt met een verlopen APK of een actieve WOK-status \+ waarschuwing wordt in beslag genomen voor 1 dag.
 
 ### **Artikel 10: Binnentreden en doorzoeken**
 
@@ -216,13 +216,13 @@ Iedere opsporingsambtenaar is bevoegd de identiteit van de verdachte vast te ste
 
 De ambtenaar van politie, aangesteld voor de uitvoering van de politietaak is bevoegd onderstaande bevoegdheden uit te oefenen in het verkeer:
 
-- Stopteken middels een stopmatrix (stopbord), zwaailicht met versnelde geluidssignalen indien het stopmatrix ontbreekt op dat dienstvoertuig. Niet hieraan voldoen is strafbaar gesteld in art. 8 Wegenverkeerswet .   
+- Stopteken middels een stopmatrix (stopbord), zwaailicht met versnelde geluidssignalen indien het stopmatrix ontbreekt op dat dienstvoertuig. Niet hieraan voldoen is strafbaar gesteld in art. 8 Wegenverkeerswet.   
 - Vordering van een rij- en kentekenbewijs.  
 - Controle van de rij-technische staat van een voertuig.
 
 ## Wet op de identificatieplicht
 
-Overheden, waaronder ambtenaren, dienen ten alle tijden de identiteit van een persoon vast te kunnen stellen indien dit noodzakelijk is voor de taakuitvoering.
+Overheden, waaronder ambtenaren, dienen te allen tijde de identiteit van een persoon vast te kunnen stellen indien dit noodzakelijk is voor de taakuitvoering.
 
 ### **Artikel 1: Toonplicht**
 
@@ -513,7 +513,9 @@ Het feit is strafbaar, ongeacht of het geweld heeft geleid tot lichamelijk letse
 
 ### **Artikel 18: Baldadigheid (straatschenderij)**
 
-Hij die op de weg of een openbare plaats tegen personen of goederen baldadigheid pleegt waardoor er gevaar of nadeel kan ontstaan, wordt schuldig aan straatschendingen en wordt gestraft met een geldboete van €3.500,-### **Artikel 19: Openbare dronkenschap**
+Hij die op de weg of een openbare plaats tegen personen of goederen baldadigheid pleegt waardoor er gevaar of nadeel kan ontstaan, wordt schuldig aan straatschenderij en wordt gestraft met een geldboete van €3.500,-
+
+### **Artikel 19: Openbare dronkenschap**
 
 Hij die zich in kennelijke staat van dronkenschap op de openbare weg bevindt, wordt gestraft met een geldboete van **€1.860,-**.
 
@@ -521,7 +523,7 @@ Hij die zich in kennelijke staat van dronkenschap op de openbare weg bevindt, wo
 
 Hij die in staat van dronkenschap het verkeer belemmert of de orde verstoort, of iemand anders veiligheid bedreigt, maakt zich schuldig aan openbare dronkenschap en wordt gestraft met een geldboete van **€1.860,-**.
 
-### **Artikel 21: Niet voldoen aan bevel vordering**
+### **Artikel 21: Niet voldoen aan bevel/vordering**
 
 Hij die door de ambtenaar gevorderd wordt, dient mee te werken aan deze vordering. Eén vordering is voldoende om dit artikel toe te passen.
 
@@ -541,9 +543,9 @@ Hij die aangifte doet dat een strafbaar feit gepleegd is, wetende dat het niet g
 | Tweede veroordeling | 30 uur | 15 maanden | €7.000,- |
 | Meerdere veroordelingen | 40 uur | 20 maanden | €8.000,- |
 
-### **Artikel 23: Voorhanden hebben van inbraak werktuigen**
+### **Artikel 23: Voorhanden hebben van inbraakwerktuigen**
 
-Hij die enig werktuig, bestemd of kennelijk geschikt voor het plegen van inbraak, diefstal of poging daartoe, bij zich draagt en/of voorhanden heeft, kan te allen tijde staande worden gehouden. Onder inbraak werktuigen worden mede verstaan, doch niet uitsluitend: lockpicks, loper(sleutels), breekijzers, schroevendraaiers, tangen, bump keys en overige hulpmiddelen die naar hun aard of omstandigheden geschikt zijn voor het forceren of openen van afsluitingen.
+Hij die enig werktuig, bestemd of kennelijk geschikt voor het plegen van inbraak, diefstal of poging daartoe, bij zich draagt en/of voorhanden heeft, kan te allen tijde staande worden gehouden. Onder inbraakwerktuigen worden mede verstaan, doch niet uitsluitend: lockpicks, lopers (sleutels), breekijzers, schroevendraaiers, tangen, bump keys en overige hulpmiddelen die naar hun aard of omstandigheden geschikt zijn voor het forceren of openen van afsluitingen.
 
 | Aantal keer | Taakstraf | Celstraf | Boete |
 | :---- | ----- | ----- | ----- |
@@ -553,7 +555,7 @@ Hij die enig werktuig, bestemd of kennelijk geschikt voor het plegen van inbraak
 
 ### **Artikel 24: Verboden toegang voor onbevoegden**
 
-Hij die, zonder daartoe gerechtigd te zijn, zich op een anders grond waarvan de toegang op een voor hem blijkbare wijze door de rechthebbende is verboden, wordt gestraft met een geldboete van **€2.500,-**.
+Hij die, zonder daartoe gerechtigd te zijn, zich op andermans grond waarvan de toegang op een voor hem blijkbare wijze door de rechthebbende is verboden, wordt gestraft met een geldboete van **€2.500,-**.
 
 ### **Artikel 25: Geldige verklaring herkomst contanten** 
 
@@ -787,14 +789,14 @@ Dit zijn objecten die niet illegaal zijn, tenzij er criminele activiteiten meege
 
 #### **Artikel 1.2 WWM: Slag-, stoot- en steekwapens categorie 1**
 
-Dit zijn wapens die ten alle tijden verboden zijn om te bezitten.  
+Dit zijn wapens die te allen tijde verboden zijn om te bezitten.  
 Lijst categorie 1 wapens:
 
 - Boksbeugel  
 - Katana  
 - Wapenstok  
 - Switchblade  
-- Machète
+- Machete
 
 | Categorie 1 | Taakstraf | Celstraf | Boete |
 | :---- | ----- | ----- | ----- |
@@ -819,7 +821,7 @@ Lijst categorie 2:
 | Tweede veroordeling |  | 35 maanden | €17.500,- |
 | Meerdere veroordelingen |  | 40 maanden | €17.500,- |
 
-#### **Artikel 1.4 WWM: Lichte automatische wapens en hoog caliber bewapening categorie 3**
+#### **Artikel 1.4 WWM: Lichte automatische wapens en hoog kaliber bewapening categorie 3**
 
 Lijst categorie 3 vuurwapens: 
 
@@ -898,7 +900,7 @@ Het is verboden hulpstukken die specifiek bestemd zijn voor vuurwapens voorhande
 
 ### **Artikel 4b WWM: Munitiebezit**
 
-Het is strafbaar voor een ieder munitie in bezit te hebben.
+Het is strafbaar voor een ieder om munitie in bezit te hebben.
 
 Indien munitie door een opsporingsambtenaar aangetroffen wordt zal dit voorwerp in beslag genomen worden ter vernietiging.
 
@@ -1014,11 +1016,11 @@ Het is een ieder verboden opzettelijk zich zodanig in het verkeer te gedragen da
 - Niet opvolgen van verkeerstekens van politie;  
 - Overtreden van andere verkeersregels van soortgelijk belang als die van hierboven.
 
-Een persoon ook strafbaar als hij een voorrangsvoertuig (zoals politie, ambulance of brandweer) hindert tijdens een spoedrit, geen voorrang verleent, of bewust achter het voertuig aan rijdt om mee te liften of een achtervolging te veroorzaken.
+Een persoon is ook strafbaar als hij een voorrangsvoertuig (zoals politie, ambulance of brandweer) hindert tijdens een spoedrit, geen voorrang verleent, of bewust achter het voertuig aan rijdt om mee te liften of een achtervolging te veroorzaken.
 
 Ook het niet direct ruimte maken bij optische en geluidssignalen valt hieronder.
 
-**Let op! Dit artikel is in Zuiderveen enkel van toepassing als meer dan drie van de bovengenoemde verkeersgedragingen geconstateerd zijn in combinatie met de beschrijving van het strafbaar feit.**
+**Let op! Dit artikel is in ZuiderVeen enkel van toepassing als meer dan drie van de bovengenoemde verkeersgedragingen geconstateerd zijn in combinatie met de beschrijving van het strafbaar feit.**
 
 | Aantal keer | Taakstraf | Boete | Rijontzegging |
 | :---- | ----- | ----- | ----- |
@@ -1028,7 +1030,7 @@ Ook het niet direct ruimte maken bij optische en geluidssignalen valt hieronder.
 
 ### **Artikel 2a: Veroorzaken ongeval met (zwaar) letsel (door schuld) (artikel 6 WVW 1994\)**
 
-Het is een ieder die aan het verkeer deelneemt verboden zich zodanig te gedragen dat door zijn schuld een verkeersongeval plaatsvindt, waardoor een ander wordt gedood, zwaar lichamelijk letsel wordt toegebracht, of zodanig lichamelijk letsel ontstaat dat daaruit tijdelijke ziekte of verhindering in de uitoefening van de normale bezigheden voortvloeit..Hij die opzettelijk op een ander inrijdt met het doel de persoon aan te rijden en letsel of erger toe te brengen wordt gestraft met poging doodslag of indien de persoon overleden is doodslag.
+Het is een ieder die aan het verkeer deelneemt verboden zich zodanig te gedragen dat door zijn schuld een verkeersongeval plaatsvindt, waardoor een ander wordt gedood, zwaar lichamelijk letsel wordt toegebracht, of zodanig lichamelijk letsel ontstaat dat daaruit tijdelijke ziekte of verhindering in de uitoefening van de normale bezigheden voortvloeit. Hij die opzettelijk op een ander inrijdt met het doel de persoon aan te rijden en letsel of erger toe te brengen wordt gestraft met poging doodslag of indien de persoon overleden is doodslag.
 
 | Aantal keer | Taakstraf | Boete | Rijontzegging |
 | :---- | ----- | ----- | ----- |
@@ -1080,7 +1082,7 @@ Hij die onder invloed van alcohol of verdovende middelen (drugs) deelneemt aan h
 
 Het is degene die weet of redelijkerwijs moet weten dat zijn rijbewijs is ingevorderd / ongeldig is verklaard, verboden om deel te nemen aan het verkeer.
 
-Wanneer er een rijontzegging is opgelegd en dus de bevoegdheid om een voertuig te besturen, geldt dit voor alle categorieën van dat rijbewijs.Het is verboden een motorrijtuig te besturen, waarvoor een rijbewijs nodig is, zonder een rijbewijs te hebben.
+Wanneer er een rijontzegging is opgelegd en dus de bevoegdheid om een voertuig te besturen, geldt dit voor alle categorieën van dat rijbewijs. Het is verboden een motorrijtuig te besturen, waarvoor een rijbewijs nodig is, zonder een rijbewijs te hebben.
 
 Tevens is het rijden zonder het rijbewijs ooit behaald te hebben ook strafbaar. Hiervoor geldt een andere strafmaat, zie onderstaande tabel.
 
@@ -1134,14 +1136,14 @@ Weggebruikers zijn verplicht gevolg te geven aan de aanwijzingen (stop-, volgtek
 
 In de binnenstad en N-wegen geldt de volgende maximumsnelheid: 80 km/u. Op de snelweg geldt de maximumsnelheid: 130 km/u. 
 
-Snelheden kunnen door de politie tijdelijk worden aangepast d.m.v. een bericht op twitter, of soortgelijke manier.
+Snelheden kunnen door de politie tijdelijk worden aangepast d.m.v. een bericht op Twitter, of een soortgelijke manier.
 
 Hij die harder gaat met zijn gemotoriseerde voertuig dan in de wet is opgenomen en/of aangegeven staat, maakt zich schuldig aan een snelheidsovertreding wat bestraft wordt met een snelheidsboete, invordering van rijbewijs en/of inbeslagname van een motorrijtuig. Een rijbewijs mag ingevorderd worden vanaf 50 km/h boven de toegestane snelheidslimiet. Een voertuig mag ingenomen worden met een 100% overschrijding van de snelheidslimiet, zie; [artikel 9: inbeslagname](#artikel-9-inbeslagname).
 
 Snelheden mogen door de politie worden gecontroleerd met de volgende methodes: 
 
 - Flitspalen en mobiele flitsers  
-- Radarsysteem aanboord van het voertuig  
+- Radarsysteem aan boord van het voertuig  
 - Een gemiddelde snelheid constateren door het voertuig te volgen met een meting.
 
 | KM per uur | Boete |
@@ -1158,9 +1160,9 @@ Snelheden mogen door de politie worden gecontroleerd met de volgende methodes:
 | 91 \- 100 km/u | €8.000,- |
 | 101 \- 125 km/u | €10.000,- |
 | 126 \- 150 km/u | €12.500,- |
-| \> 151km/u | €15.000,- |
+| \> 151 km/u | €15.000,- |
 
-### **Artikel 10: Parkeer Gedragingen**
+### **Artikel 10: Parkeergedragingen**
 
 Parkeren is “het laten stilstaan van een voertuig anders dan gedurende de tijd die nodig is voor en gebruikt wordt tot het onmiddellijk in- of uitstappen van passagiers of voor het onmiddellijk laden en lossen van goederen”.
 
@@ -1183,16 +1185,16 @@ Bij het niet vinden van de rechtmatige eigenaar welke in de straal is van **20 m
 - In de aangegeven parkeergarages.  
 - Op de vluchtstrook indien het voertuig niet in staat is verder te rijden en je staat te wachten op de ANWB of bij een andere calamiteit.
 
-| Strafbaar feit | Boete  |
+| Strafbaar feit | Boete |
 | :---- | ----- |
 | Fout parkeren | €2.950,- |
 
 ### **Artikel 11: Voertuig niet rijvaardig (APK)**
 
-Bij een niet geldig APK ( Algemene Periodieke Keuring) is het verboden om met het gemotoriseerde voertuig te rijden. Het voertuig dient bij de ANWB gekeurd te zijn. Hiervoor gelden de regels dat uw voertuig:
+Bij een niet-geldige APK (Algemene Periodieke Keuring) is het verboden om met het gemotoriseerde voertuig te rijden. Het voertuig dient bij de ANWB gekeurd te zijn. Hiervoor gelden de regels dat uw voertuig:
 
 1. Voldoende zicht moet hebben, geblindeerde voor- en zijruiten zijn niet toegestaan.  
-2. Geen meer tonig claxon (toeter), dus alleen de normale 2 tonige claxon  
+2. Geen meertonige claxon (toeter), dus alleen de normale tweetonige claxon  
 3. Uw voertuig moet een kenteken bevatten (indien mogelijk).  
 4. Koplampen en achterlichten mogen niet donker zijn.  
 5. Niet-ingebouwde neonverlichting is niet toegestaan.  
@@ -1205,10 +1207,10 @@ Een uitzondering om wél te rijden in een voertuig zonder APK/met WOK-status is 
 | **Strafbaar feit** | **Boete** |
 | APK verlopen | €5.500,- |
 
-### **Artikel 12: WOK status**
+### **Artikel 12: WOK-status**
 
 Een WOK (Wachten Op Keuren) melding wordt uitgegeven door de opsporingsambtenaar die geconstateerd heeft dat een voertuig niet voldoet aan de wettelijke normen en daarmee een gevaar kan zijn voor zichzelf en anderen op de openbare wegen.  
-Een WOK status wordt gegeven wanneer:
+Een WOK-status wordt gegeven wanneer:
 
 1. Het voertuig voldoet niet aan de eisen genoemd in artikel 31\.  
 2. Door een opsporingsambtenaar geconstateerd wordt dat de APK verlopen is.
@@ -1226,7 +1228,7 @@ Besturen van een voertuig met een WOK-status
 
 Aan alle verkeersovertredingen die de bestuurder begaat zal een boete opstaan en/of eventuele taakstraf.
 
-| Overtreding | Boete  | Wok |
+| Overtreding | Boete | WOK |
 | :---- | ----- | ----- |
 | Maken van een u-turn waar dit niet is toegestaan | €2.200,- |  |
 | Onnodig claxoneren | €2.800,- |  |
@@ -1242,7 +1244,7 @@ Aan alle verkeersovertredingen die de bestuurder begaat zal een boete opstaan en
 | Offroad rijden met een niet daarvoor bestemd voertuig | €4.500,- |  |
 | Rijden met geblindeerde ramen | €7.500,- | Ja |
 | Rijden met ondeugdelijke verlichting (kleuren anders dan wit, geel of lichtblauw) | €4.250,- | Ja |
-| Rijden met een een meertonige claxon | €3.800,- | Ja |
+| Rijden met een meertonige claxon | €3.800,- | Ja |
 | Rijden zonder kentekenplaat | €10.000,- | Ja |
 | Verlichting (NEON) onder het voertuig | €2.500,- | Ja |
 
@@ -1250,7 +1252,7 @@ Aan alle verkeersovertredingen die de bestuurder begaat zal een boete opstaan en
 
 ### **Artikel 1: Transport over zee**
 
-Het is verboden voor een ieder deel te nemen aan het waterverkeer zonder een geldig vaarbewijs.
+Het is verboden voor een ieder om deel te nemen aan het waterverkeer zonder een geldig vaarbewijs.
 
 | Strafbaar feit | Boete |
 | :---- | ----- |
@@ -1259,15 +1261,15 @@ Het is verboden voor een ieder deel te nemen aan het waterverkeer zonder een gel
 
 ### **Artikel 2: Transport in de lucht**
 
-Het is verboden voor een ieder deel te nemen aan het luchtverkeer zonder een geldige vliegbrevet. Opleggen en uitvoeren van een sanctie wordt gedaan door de Vliegschool.
+Het is verboden voor een ieder om deel te nemen aan het luchtverkeer zonder een geldig vliegbrevet. Opleggen en uitvoeren van een sanctie wordt gedaan door de Vliegschool.
 
 Er wordt verwacht dat de houder van een vliegbrevet kennis heeft met betrekking tot regels in de luchtvaart.
 
-De vaststelling en uitvoering van een sanctie wordt volledig gedelegeerd aan de vliegschool en de gemeente (staff-team).
+De vaststelling en uitvoering van een sanctie wordt volledig gedelegeerd aan de vliegschool en de gemeente (staffteam).
 
 ## Wet Penitentiaire Inrichtingen
 
-In deze wet wordt omschreven welke regels vastgesteld zijn rondom de gevangenis en gevangenen/ingeslotenen in Zuiderveen.
+In deze wet wordt omschreven welke regels vastgesteld zijn rondom de gevangenis en gevangenen/ingeslotenen in ZuiderVeen.
 
 **Begrippenlijst:**
 

@@ -3,7 +3,6 @@ site_author: 'ZuiderVeen'
 
 nav:
   - Hoofdpagina: index.md
-  - PC-Checks: PCCheckbeleid.pdf
   - Informatie: informatie.md
   - Regels: regels.md
   - Straffen: straffen.md

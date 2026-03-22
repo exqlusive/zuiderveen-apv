@@ -6,13 +6,13 @@
 
 - **Stad:** ZuiderVeen
 - **Staff Team:** Staff
-- **Hogerop:** Hoofd-staff +
+- **Hogerop:** Hoofdstaff +
 
-Alle regels zijn van toepassing binnen ZuiderVeen. Bij verandering van de regels na het tijdstip waarop de regels zijn overtreden, worden de voor de overtreder meest gunstigste bepalingen toegepast.
+Alle regels zijn van toepassing binnen ZuiderVeen. Bij verandering van de regels na het tijdstip waarop de regels zijn overtreden, worden de voor de overtreder meest gunstige bepalingen toegepast.
 
 **Staff-zaken:**
 
-Elk staff-lid is bevoegd staff-zaken te behandelen kijkend naar de regels van ZuiderVeen. Een stafflid mag op geen enkele wijze een staff-zaak behandelen waar hij/zij zelf bij betrokken is of waar zijn/haar beroep/gang bij betrokken is met uitzondering van Hoofdstaff of hoger met toeziend oog van een mede-hogerop. Alle staff-zaken worden behandeld op feiten, logs en/of eigen perspectief.
+Elk stafflid is bevoegd staff-zaken te behandelen kijkend naar de regels van ZuiderVeen. Een stafflid mag op geen enkele wijze een staff-zaak behandelen waar hij/zij zelf bij betrokken is of waar zijn/haar beroep/gang bij betrokken is met uitzondering van Hoofdstaff of hoger met toeziend oog van een mede-hogerop. Alle staff-zaken worden behandeld op feiten, logs en/of eigen perspectief.
 
 **Begrippen:**
 

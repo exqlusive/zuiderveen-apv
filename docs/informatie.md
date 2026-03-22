@@ -10,21 +10,21 @@ Indien er duidelijk bewijs gevonden is die de opgelegde straf kan veranderen, st
 
 ## Omzeilen straf
 
-Het omzeilen van een opgelegde straf is verboden. Indien dit geconstateerd wordt volgt een straf opleggen van de 9e categorie.
+Het omzeilen van een opgelegde straf is verboden. Indien dit geconstateerd wordt, volgt een strafoplegging van de 9e categorie.
 
 Proberen ''loopholes'' te vinden in de regels en/of de regels te misbruiken/buigen voor je eigen voordeel is niet toegestaan en zal worden bestraft volgens categorie 7.
 
 ## Bans zijn op GTA license en IP verbonden
 
-Bans worden uitgedeeld op GTA License en IP-Adres en geldt dus voor een ieder die hier gebruik van maakt. Dit geldt ook voor familieleden of vrienden in hetzelfde huis. Hier dien je samen verantwoordelijk voor te zijn, mocht iemand een straf krijgen.
+Bans worden uitgedeeld op GTA License en IP-adres en gelden dus voor een ieder die hier gebruik van maakt. Dit geldt ook voor familieleden of vrienden in hetzelfde huis. Hier dien je samen verantwoordelijk voor te zijn, mocht iemand een straf krijgen.
 
 ## Straffen worden verhoogd na herhaling
 
-Wanneer je dezelfde categorie meerdere keren heb gehad kan je volgende straf verhoogd worden met 1 categorie.
+Wanneer je dezelfde categorie meerdere keren hebt gehad kan je volgende straf verhoogd worden met 1 categorie.
 
 ## Tonen bewijsmateriaal
 
-Een stafflid is niet verplicht om verzameld bewijsmateriaal te tonen aan een speler, wanneer hij/zij een straf heeft gekregen na het overtreden van een/of meerdere regels.
+Een stafflid is niet verplicht om verzameld bewijsmateriaal te tonen aan een speler, wanneer hij/zij een straf heeft gekregen na het overtreden van een of meerdere regels.
 
 ## Klacht maken over een speler
 
@@ -32,19 +32,19 @@ Een klacht over een speler dient binnen een week aangemaakt te worden. Daarna za
 
 ## Liegen tegen staff
 
-Liegen tegen staffleden is ten alle tijden niet toegestaan, hier staat een straf op van minimaal categorie 5.
+Liegen tegen staffleden is te allen tijde niet toegestaan, hier staat een straf op van minimaal categorie 5.
 
 ## Informatie achterhouden voor staff
 
-Het is niet toegestaan om informatie voor een stafflid te achterhouden. Zodra een stafflid jou iets vraagt, verwachten we dus ook dat jij naar alle waarheid de informatie verstrekt. Hier niet aan meewerken zal een straf van categorie 5.
+Het is niet toegestaan om informatie voor een stafflid te achterhouden. Zodra een stafflid jou iets vraagt, verwachten we dus ook dat jij naar alle waarheid de informatie verstrekt. Hier niet aan meewerken leidt tot een straf van categorie 5.
 
 ## Voordoen als staff
 
-Het voordoen en of uitspraken gebruiken om als staflid over te komen is niet toegestaan en zal bestraft worden met categorie 6.
+Het voordoen en/of uitspraken gebruiken om als stafflid over te komen is niet toegestaan en zal bestraft worden met categorie 6.
 
 ## Refunds
 
-Om een recent scenario te kunnen behandelen, vragen wij een ticket in de categorieën klachten over spelers / in game refunds binnen 7 dagen aan te maken. Tickets buiten de 7 dagen worden niet behandeld, tenzij er toestemming is gegeven door hogerop.
+Om een recent scenario te kunnen behandelen, vragen wij een ticket in de categorieën klachten over spelers / in-game refunds binnen 7 dagen aan te maken. Tickets buiten de 7 dagen worden niet behandeld, tenzij er toestemming is gegeven door hogerop.
 
 **Om in aanmerking te komen voor een refund moet je aan de volgende eisen voldoen:**
 
@@ -57,7 +57,7 @@ Om een recent scenario te kunnen behandelen, vragen wij een ticket in de categor
 - Wanneer een persoon wordt gebanned waar je spullen aan hebt uitgeleend.
 - Wanneer je aangereden wordt terwijl je door rood licht rijdt. Dit wordt gezien als een verkeersongeluk.
 - Wanneer je een dodelijke crash maakt met je voertuig. Het is aan de ambulance of je nog te redden valt.
-- Wanneer er door jou een apv regel word overtreden in het scenario, heb je automatisch geen recht meer op een refund. (ookal heeft de fout niks te maken met de refund)
+- Wanneer er door jou een APV-regel wordt overtreden in het scenario, heb je automatisch geen recht meer op een refund. (ook al heeft de fout niks te maken met de refund)
 
 Een stafflid mag alleen een refund goedkeuren indien het **eigen perspectief** gebruikt wordt. Het perspectief van een ander is niet toegestaan.
 
@@ -73,7 +73,7 @@ Een delfine is een boete die je wordt opgelegd zodra jij een voertuig (kapot) ac
 
 ## Wegenbelasting
 
-Elke dinsdag en zaterdag om 04:00 wordt er in ZuiderVeen wegenbelasting betaald. Je betaalt wegenbelasting wanneer je 4 of meer voertuigen hebt. Hoeveel je betaalt hangt af van de hoeveelheid voertuigen je in je garage hebt.
+Elke dinsdag en zaterdag om 04:00 wordt er in ZuiderVeen wegenbelasting betaald. Je betaalt wegenbelasting wanneer je 4 of meer voertuigen hebt. Hoeveel je betaalt hangt af van de hoeveelheid voertuigen die je in je garage hebt.
 
 - Tussen de 4 en 8 voertuigen: €5.000
 - Tussen de 9 en 12 voertuigen: €10.000

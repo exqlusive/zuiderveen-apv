@@ -35,7 +35,7 @@
 ### **Artikel 3A: Startersgeld (categorie 8)**
 
 - Het is niet toegestaan startersgeld aan anderen te geven zonder enige bedoeling zelf te gaan spelen.
-- Het is niet toegestaan om de speeltijd zonder enige doel af te wachten en dan als nog geld over te maken zonder doel te hebben langer te gaan spelen.
+- Het is niet toegestaan om de speeltijd zonder enig doel af te wachten en dan alsnog geld over te maken zonder doel te hebben langer te gaan spelen.
 - Zowel gever als ontvanger van startersgeld krijgt een ban.
 
 ### **Artikel 4: Bedreigen / Intimideren (Straf-categorie: 8)**
@@ -391,7 +391,7 @@ Als je ZuiderVeen streamt, moet de stream altijd openbaar zijn. Privestreamen is
 - Een groter klasse voertuig pitten is niet toegestaan, ongeacht de snelheid
 - Motoren pitten of brake checken is nooit toegestaan
 
-#### 16.2 - Voertuigcategorieen
+#### 16.2 - Voertuigcategorieën
 
 Een voertuig mag geen hogere categorie pitten of brake checken:
 
@@ -828,7 +828,7 @@ Een ontvoering is alleen toegestaan wanneer:
 
 #### 37.4 - Overig
 
-- Onnodig wapens richten zonder reden = Powergaming of FailRP
+- Onnodig wapens richten zonder reden = Powergamen of FailRP
 - Deze regels gelden op land, water en in de lucht - op het eiland geldt Artikel 9.1 niet
 - Een stafflid mag altijd de situatie beoordelen en maatregelen nemen
 
@@ -1144,7 +1144,7 @@ Wapens in appa's op eiland = inbeslagname (geen refund).
 - Rivaliserende groeperingen wegsturen is toegestaan - niet weggaan binnen 5 min = doden toegestaan
 - Weggestuurd = 30 min wegblijven
 
-# Aircraftregels
+# Aircraft-regels
 
 ### **Artikel 57: Vliegtuig/Helikopter gebruik**
 
@@ -1176,9 +1176,9 @@ De Aircraft Carrier is militair, justitieel gebied.
 - Politie mag in uiterste situaties dodelijk vuur gebruiken
 - Landen/hangen rondom carrier = eigen risico
 
-### **Artikel 59: Helicopter op eiland**
+### **Artikel 59: Helikopter op eiland**
 
-- Helicopters uit de lucht schieten is toegestaan
+- Helikopters uit de lucht schieten is toegestaan
 - Springen met parachute is toegestaan
 - Bestuurder mag alleen springen bij neerstorten
 
