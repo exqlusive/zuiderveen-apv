@@ -3,7 +3,6 @@
 ### **Artikel 1: Cheats (Straf-categorie: 9)**
 
 1. Het gebruik van software van derde partijen (zoals cheats of hacks) om een voordeel te behalen is **niet toegestaan**.
-2. Het weigeren van een PC-check resulteert in een ban. Dit is om de veiligheid van andere spelers te waarborgen. Ook al is een PC-check vrijblijvend te annuleren, behouden wij als server het recht om je te weigeren bij weigering.
 3. Bij duidelijk bewijs van cheatbezit (ook op andere servers) behouden wij het recht om je te bannen op basis van artikel 1.
 
 ### **Artikel 1A: Externe Software (Straf-categorie: 7)**
@@ -13,7 +12,7 @@
 
 ### **Artikel 2: Exploits/Bugs**
 
-1. Het doelbewust misbruiken van een bug of exploit die jou of anderen voordeel geeft is **niet toegestaan**.
+1. Het doelbewust misbruiken van een bug of exploit die jou of anderen voordeel geeft, is **niet toegestaan**.
 2. **Voorbeelden (Straf-categorie: 6):** Emotes gebruiken om door muren/deuren te komen of te ontsnappen uit de gevangenis.
 3. Handelingen uitvoeren terwijl je dood bent.
 4. **Voorbeelden (Straf-categorie: 7):** Het moedwillig dupliceren van in-game items.
@@ -58,6 +57,7 @@ Voorbeelden van Fail RP:
 - Zonder goede reden iemands band lek steken
 - Praten terwijl je dood bent (bij regelovertreding: maak een report)
 - Scenario's waarin alleen je eigen belang telt of waarbij je andermans roleplay invult voor eigen gewin
+- Wanneer burger is doodgeschoten, dient medisch personeel de burger mee te nemen naar het ziekenhuis voor behandeling. Burger mag niet ter plekke op locatie behandeld worden.
 
 Toont een speler geen intentie om te roleplayen, dan mag een stafflid een straf uitdelen volgens **categorie 9**.
 
@@ -65,13 +65,13 @@ Toont een speler geen intentie om te roleplayen, dan mag een stafflid een straf 
 
 Je moet verwondingen uitspelen bij:
 
-| Situatie | Snelheid |
-| --- | --- |
-| Over de kop gaan | > 40 km/u |
+| Situatie                                                | Snelheid  |
+|---------------------------------------------------------|-----------|
+| Over de kop gaan                                        | > 40 km/u |
 | Crashen tegen onverwoestbare objecten (gebouwen, palen) | > 85 km/u |
-| Crashen tegen andere voertuigen | > 85 km/u |
-| Crashen met een motor | > 55 km/u |
-| Van motor afgeschoten worden | > 55 km/u |
+| Crashen tegen andere voertuigen                         | > 85 km/u |
+| Crashen met een motor                                   | > 55 km/u |
+| Van motor afgeschoten worden                            | > 55 km/u |
 
 Ook bij:
 
@@ -83,7 +83,7 @@ Deze regels gelden voor alle voertuigen, inclusief gepantserde voertuigen.
 #### 5.3 - Banden schieten
 
 Het schieten van banden zonder aanleiding is niet toegestaan.
- Wel toegestaan wanneer:
+Wel toegestaan wanneer:
 
 - Jij of je gang wordt gewaarschuwd om stil te staan
 - Je langer dan 5 minuten wordt achtervolgd door minimaal 2 politievoertuigen
@@ -100,14 +100,14 @@ Het mengen met een politiescenario is niet toegestaan:
 - Meerijden met een achtervolging
 - Erbij staan tijdens een staandehouding
 
-Uitzondering: wanneer je gevraagd wordt door de achtervolgde of staandegehoudene. Gangleden zijn uitgezonderd van deze regel.
+Uitzondering: wanneer je gevraagd wordt door de achtervolgde of standgehoudene. Gangleden zijn uitgezonderd van deze regel.
 
 #### 5.5 - Voertuig stelen
 
-| Situatie | Toegestaan? |
-| --- | --- |
-| Onbemand achtergelaten langs de weg | Ja |
-| Iemand is bezig met het voertuig | Nee (categorie 3) |
+| Situatie                            | Toegestaan?       |
+|-------------------------------------|-------------------|
+| Onbemand achtergelaten langs de weg | Ja                |
+| Iemand is bezig met het voertuig    | Nee (categorie 3) |
 
 Bezig met het voertuig betekent:
 
@@ -118,14 +118,14 @@ Bezig met het voertuig betekent:
 #### 5.6 - Campen op drugslocaties
 
 **Strafcategorie: 4**
- Campen is het langer dan 2 minuten zichtbaar of verborgen verblijven met als doel illegale activiteiten.
+Campen is het langer dan 2 minuten zichtbaar of verborgen verblijven met als doel illegale activiteiten.
 
 Niet toegestaan:
 
 - Wachten (in bosjes of openbaar) om goederen uit een bus te halen
 - Wachten om een voertuig mee te nemen dat niet van jou is
 - Wachten om mensen te rippen van wapens, geld of goederen
-- Campen rondom drugsverkoop- of witwaslocaties
+- Campen rondom drugsverkoop- of witwas locaties
 
 Rondrijden in de wijk mag wel, maar niet stil staan rondom de locatie.
 
@@ -155,11 +155,17 @@ Powergamen is het opzettelijk veranderen van een scenario door onrealistische el
 - Binnen 10 minuten na het trekken van je wapen dit wegleggen of de stad verlaten. Dit geldt ook voor agenten. Een stafflid mag hiervoor een combatlog ban uitdelen.
 - Het DEL-menu gebruiken om spelers te vinden via ID's
 - Een speler meenemen naar het eiland om daar te doden (RDM-regel omzeilen)
+- Medisch personeel forceren om iemand te reanimeren om direct het wapen af te pakken
+- Communicatie middelen gebruiken terwijl je dood- of onder water bent
+- Medewerkers van de overheid te ontvoeren om een signalering te verwijderen of om iets te bekijken in de MEOS 
+- Medewerkers van de overheid te dwingen om een (bewusteloze) burger te fouilleren, items (zoals wapens) af te nemen en te geven aan jou of een andere burger
+- Wanneer je handen omhoog hebt, dien je te allen tijde mee te werken. Het snel switchen naar richten is niet toegestaan (10 sec. cooldown)
 
 #### 6.2 - Emote abuse
 
 - Emotes (zoals F5) gebruiken terwijl je beschoten wordt
 - In F5 liggen achter een muur om in third-person te kijken zonder op te vallen
+- Spammen van emotes om zo door bijvoorbeeld een muur te vallen
 
 #### 6.3 - Third-person misbruik
 
@@ -227,16 +233,12 @@ Het is verboden om een in-game ban of warn te vermelden in de stad, ook niet ond
 - Het verstoren van een scenario, ongeacht de omvang, zoals het telkens heen en weer rijden bij een overval of het mengen in een achtervolging die al enkele minuten bezig is;
 - Het opzettelijk irriteren van agenten of herhaaldelijk proberen af te leiden zonder duidelijke reden of zonder daadwerkelijke overval/intentie.
 
- 
-
 #### Lid 2 - Zwaar Copbaiten (Straf-categorie: 4)
 
 - Hieronder wordt verstaan: Het in de lucht schieten om politiereacties uit te lokken;
 - Het schieten op of in de richting van agenten zonder geldige roleplay-reden;
 - Het openlijk rondzwaaien of tonen van (vuur)wapens met als doel een reactie van ambtenaren uit te lokken;
 - Het dreigen met wapens richting ambtenaren zonder roleplay-aanleiding.
-
- 
 
 #### Lid 3 - Uitzonderingen
 
@@ -268,8 +270,8 @@ Het is verplicht waarde te hechten aan je leven. Wie geen waarde hecht aan zijn 
 
 #### 9.4 - Blokkades met voertuigen
 
-- Een rijdende blokkade valt **altijd** onder NVOL.
-- Je mag in je voertuig blijven zitten bij een wegblokkade, mits het voertuig minimaal 3 seconden volledig stilstaat (0 km/u).
+- Het is toegestaan om met je voertuig een ander voertuig te hinderen.
+- Het is toegestaan om een wegblokkade te maken met een voertuig. Het is niet toegestaan overheidsvoertuigen/nonwhitelisted job voertuigen stelen/gebruiken om blokkades te maken.
 
 #### 9.5 - Herhaalde overtreding
 
@@ -325,10 +327,10 @@ VDM (Vehicle Deathmatch) is het opzettelijk inrijden op een speler met de intent
 
 #### 13.1 - Strafmaat
 
-| Situatie | Strafcategorie |
-| --- | --- |
-| 1 slachtoffer | Categorie 2 |
-| Meerdere slachtoffers | Categorie 4 |
+| Situatie              | Strafcategorie |
+|-----------------------|----------------|
+| 1 slachtoffer         | Categorie 2    |
+| Meerdere slachtoffers | Categorie 4    |
 
 ### **Artikel 14: RDM (Strafcategorie: 4)**
 
@@ -338,13 +340,12 @@ RDM (Random Deathmatch) is het willekeurig vermoorden van spelers zonder geldige
 
 De volgende situaties zijn **geen** geldige reden om iemand te vermoorden:
 
-- Uitgescholden worden (sukkel, eikel, lelijk, etc.)
 - Iemand rijdt per ongeluk tegen je aan
 - Iemand weigert te "blaffen", "zingen", "dansen" of vernederende dingen te doen
 
 #### 14.2 - Wel toegestaan
 
-- Uitdagen via Twitter (met bewijs dat het om deze persoon gaat). Twitter-media mag in-game als informatie worden gebruikt.
+- Uitdagen via Birdy (met bewijs dat het om deze persoon gaat). Birdy-media mag in-game als informatie worden gebruikt.
 - Doelbewust een gang uitdagen
 
 #### 14.3 - Op eigen risico
@@ -378,6 +379,7 @@ Metagamen is het gebruiken van informatie die je buiten je karakter om hebt verk
 - Screensharen terwijl je in ZuiderVeen bent
 - Praten in een call tijdens een scenario - je moet jezelf muten
 - In-game informatie versturen in de ZuiderVeen onderwereld Discord
+- Het gebruik maken van andere social media kanalen
 
 #### 15.2 - Streamen
 
@@ -395,10 +397,10 @@ Als je ZuiderVeen streamt, moet de stream altijd openbaar zijn. Privestreamen is
 
 Een voertuig mag geen hogere categorie pitten of brake checken:
 
-    1. Motorvoertuigen
-    2. Sportauto's en hypercars
+1. Motorvoertuigen
+2. Sportauto's en hypercars
 3. Personenauto's (Sedans, Coupes)
-    4. SUV's
+4. SUV's
 5. Bussen en vrachtwagens (Mercedes 6X6 valt hieronder)
 
 #### 16.3 - Brake checken
@@ -415,7 +417,7 @@ Brake checken is toegestaan indien realistisch. Dit is op eigen risico - geen re
 #### 16.5 - Overige regels
 
 - Gebouwen betreden met ongeschikte voertuigen is niet toegestaan
-- Auto's verkopen via Twitter is toegestaan
+- Auto's verkopen via Birdy is toegestaan
 - Lesauto's mogen alleen voor de lesronde worden gebruikt
 
 #### 16.6 - Voertuigen achterlaten
@@ -437,9 +439,9 @@ GTA Style Driving is het onrealistisch rijden met je voertuig.
 
 Met een of meerdere lekke banden mag je niet harder dan 130 km/u rijden.
 
-### **Artikel 18: Illegale activiteiten via Twitter/Instagram (Strafcategorie: 1)**
+### **Artikel 18: Illegale activiteiten via Birdy/Instapic (Strafcategorie: 1)**
 
-Het opzetten of uitvoeren van criminele activiteiten via Twitter/Instagram is niet toegestaan.
+Het opzetten of uitvoeren van criminele activiteiten via Birdy/Instapic is niet toegestaan.
 
 #### 18.1 - Niet toegestaan
 
@@ -451,16 +453,17 @@ Het opzetten of uitvoeren van criminele activiteiten via Twitter/Instagram is ni
 
 #### 18.2 - Synoniemen en vervormingen
 
-Het is niet toegestaan om vervormingen of synoniemen te gebruiken om illegale activiteiten te triggeren. Voorbeelden: sokken wassen, honkbalspullen, poedersuiker, zakjes snoep, palmboom-emote (eiland).
+Het is niet toegestaan om vervormingen of synoniemen te gebruiken om illegale activiteiten te triggeren. Voorbeelden: sokken wassen, honkbalspullen, poedersuiker, zakjes snoep.
 
 #### 18.3 - Wel toegestaan
 
 - Aangeven dat je hostages hebt (max 1-2x, spammen = straf categorie 1)
 - Aangeven dat wapens niet mogen worden afgepakt
+- Eiland emoji in Birdy zetten
 
 #### 18.4 - Bans/warns
 
-Het is verboden om in-game te reageren op bans/warns die in Twitter/Instagram te zien zijn.
+Het is verboden om in-game te reageren op bans/warns die in Birdy/Instapic te zien zijn.
 
 ### **Artikel 19: Overheidskleding dragen (Strafcategorie: 1)**
 
@@ -478,11 +481,11 @@ Het uitschelden van spelers is niet toegestaan.
 
 #### 20.1 - Strafmaat per overtreding
 
-| Overtreding | Strafcategorie |
-| --- | --- |
-| Schelden met ziektes | Categorie 5 |
-| Seksuele uitingen of beledigingen van vrouwen | Categorie 5 |
-| Racistische of discriminerende opmerkingen | Categorie 6 |
+| Overtreding                                   | Strafcategorie |
+|-----------------------------------------------|----------------|
+| Schelden met ziektes gericht naar een burger  | Categorie 5    |
+| Seksuele uitingen of beledigingen van vrouwen | Categorie 5    |
+| Racistische of discriminerende opmerkingen    | Categorie 6    |
 
 ### **Artikel 21: Standaard outfit (Strafcategorie: 1)**
 
@@ -514,7 +517,7 @@ Het is verboden om tijdens een scenario het spel af te sluiten of te verlaten.
 
 #### 22.2 - Uitzondering
 
-Als je echt moet vertrekken, overleg dit met de betrokkenen in het scenario.
+Als je echt moet vertrekken, overleg dit met de betrokkenen in het scenario of met een stafflid.
 
 ### **Artikel 23: Stream sniping (Strafcategorie: 3)**
 
@@ -573,9 +576,9 @@ Je mag iemand herkennen op basis van stemherkenning.
 
 Bij gebruik van een voice changer is het niet toegestaan om iemand te herkennen aan zijn stem.
 
-### **Artikel 29: Twitter/Instagram media**
+### **Artikel 29: Birdy/Instapic media**
 
-Informatie uit Twitter of Instagram media mag in de stad gebruikt worden.
+Informatie uit Birdy of Instapic media mag in de stad gebruikt worden.
 
 #### 29.1 - Eigen verantwoordelijkheid
 
@@ -612,7 +615,7 @@ Het is je eigen verantwoordelijkheid om wapens en dergelijke te laten zien. Gang
 #### 31.3 - Samenwerking
 
 - Groeperingen mogen alleen samenwerken in politie-scenario's en eigen klant-scenario's met niet-rivaliserende groeperingen
-- Samenwerken op het eiland is niet toegestaan (tenzij toestemming van onderwereld coördinatoren)
+- Samenwerken op het eiland is niet toegestaan (tenzij toestemming van een onderwereld coordinator)
 - Samenwerken met andere groeperingen of solo's tegen een persoon/groep is verboden
 
 #### 31.4 - Wat telt als samenwerking?
@@ -635,7 +638,9 @@ Bij overtreding volgt de daarvoor bestemde strafcategorie. Bij herhaling wordt d
 #### 32.1 - Niet toegestaan
 
 - Scammen met voertuigen
-- Na het oplichten/scammen de desbetreffende burger vermoorden
+- Na het oplichten/scammen de desbetreffende burger vermoorden*
+
+*Als persoon na het oplichten/scammen een grote mond heeft en blijft provoceren/bedreigen, mag deze persoon wel worden vermoord.
 
 #### 32.2 - Limieten
 
@@ -678,23 +683,22 @@ Alle personen die het gebouw zijn binnengegaan moeten binnen blijven totdat:
 
 #### 33.6 - Derde partij mengen
 
-- Bij gestarte overval of aanwezige politie: geen menging door derde partij (ook niet bij achtervolging)
+- Bij een gestarte overval- en/of aanwezige politie: geen menging door derde partij (ook niet bij achtervolging)
 - Bij gijzeling met politie op locatie: geen menging door derde partij
 - Uitzondering: als je foto/locatie deelt over verzamelplaats hostages mag er wel gemengd worden
-- Als de politie binnen 10 minuten op de derde partij schiet, mag deze partij mengen (mits binnen 10 min aangesloten)
 
 *Outsiders mogen wel gepakt worden.*
 
 #### 33.7 - Overvaltypes
 
-| Type | Min. agenten | Max. hostages | Max. outside shooters |
-| --- | --- | --- | --- |
-| Winkel | 4 | 5 | 2 |
-| Kleine Bank | 6 | 5 | 3 |
-| Jacht | 7 | 8 | 4 |
-| Juwelier | 7 | 8 | 4 |
-| Humane Labs | 8 | 10 | 4 |
-| Grote Bank | 8 | 10 | 4 |
+| Type        | Min. agenten | Max. hostages | Max. outside shooters |
+|-------------|--------------|---------------|-----------------------|
+| Winkel      | 4            | 5             | 2                     |
+| Kleine Bank | 6            | 5             | 3                     |
+| Juwelier    | 6            | 8             | 4                     |
+| Jacht       | 7            | 8             | 4                     |
+| Humane Labs | 8            | 10            | 4                     |
+| Grote Bank  | 8            | 10            | 4                     |
 
 #### 33.8 - Type toewijzingen
 
@@ -720,12 +724,15 @@ De **MazeBank Arena** overval valt onder type "Grote Bank".
 - Max. **€10.000,-** rippen (zwart of wit geld)
 - Max. **20 items** rippen bij overval met wapen
 - Geen limiet op wapens, attachments en kogels
+- Het lockpicken van voertuigen die actief worden gebruikt bij een illegale locatie is niet toegestaan (VB: Vape verwerk)
 
 #### 34.2 - Na het rippen
 
-- Na rippen mag je de persoon **2 uur** niet vermoorden
-- Bij meerdere rippers: iedereen laat de persoon 2 uur met rust
+- Na rippen mag je de persoon **2 uur** niet vermoorden*
+- Bij meerdere rippers: iedereen laat de persoon 2 uur met rust*
 - Doodschieten omdat iemand niet kan betalen = RDM
+
+*Uitzondering: als de persoon een grote mond heeft en blijft provoceren/bedreigen, mag deze persoon wel worden vermoord.
 
 #### 34.3 - Dood is dood
 
@@ -738,9 +745,9 @@ Scammen van hulpdiensten in dienst is niet toegestaan.
 #### 34.5 - Witwassers
 
 - Overvallen alleen toegestaan als je ziet dat iemand het voertuig uit de cirkel haalt of de witwas handeling uitvoert
-- Campen op spawnlocaties of witwaslocaties is niet toegestaan
+- Campen op spawn locaties of witwas locaties is niet toegestaan
 - Je mag al het zwart geld rippen (of witgeld met bewijs van witwassen)
-- Geldt ook voor bijrijdende voertuigen/convooi
+- Geldt ook voor bij rijdende voertuigen/convooi
 - Rippen van witwassers is toegestaan met 0 politie
 
 #### 34.6 - Groeperingen
@@ -780,11 +787,11 @@ Zie de [Gang-regels](https://discordapp.com/channels/777512381688709200/77751598
 
 #### 36.1 - Politie vereisten
 
-| Ontvoering | Min. politie in dienst |
-| --- | --- |
-| Burger | 2 |
-| 1 agent | 4 (3 anderen moeten overblijven) |
-| 2 agenten | 8 |
+| Ontvoering | Min. politie in dienst           |
+|------------|----------------------------------|
+| Burger     | 2                                |
+| 1 agent    | 4 (3 anderen moeten overblijven) |
+| 2 agenten  | 8                                |
 
 *Bij 7+ politie vervalt de agentenregel.*
 
@@ -796,12 +803,12 @@ Zie de [Gang-regels](https://discordapp.com/channels/777512381688709200/77751598
 
 #### 36.3 - Duur en bedragen
 
-| Regel | Limiet |
-| --- | --- |
-| Max. ontvoeringstijd | 90 minuten |
-| Max. eis per burger | €30.000,-|
-| Max. eis per agent | €50.000,-|
-| Max. totaal politie mag geven | €500.000,-|
+| Regel                         | Limiet     |
+|-------------------------------|------------|
+| Max. ontvoeringstijd          | 90 minuten |
+| Max. eis per burger           | €30.000,-  |
+| Max. eis per agent            | €50.000,-  |
+| Max. totaal politie mag geven | €500.000,- |
 
 ### **Artikel 37: Onder dreiging houden (Strafcategorie: 3)**
 
@@ -867,7 +874,7 @@ Na het zien van wapen/holster/vest/masker heb je **max. 2 uur** om te rippen. Da
 #### 39.5 - Niet toegestaan
 
 - Iemand forceren grote tas af te doen om rugwapen te checken
-- Discord kanalen gebruiken als "gezien" (behalve Twitter/Instagram media)
+- Discord kanalen gebruiken als "gezien" (behalve Birdy/Instapic media)
 
 #### 39.6 - Attachments
 
@@ -997,7 +1004,7 @@ Erotische roleplay is niet toegestaan.
 
 #### 49.1 - Gedrag naar hulpdiensten
 
-- Agressief benaderen van Politie, Ambulance, Taxi en ANWB is niet toegestaan
+- Agressief benaderen van Politie, Ambulance, Taxi en Pechhulp is niet toegestaan
 - Blijf te allen tijde vriendelijk
 
 #### 49.2 - Verplichtingen hulpdiensten
@@ -1064,7 +1071,7 @@ Bij herhaling kan een stafflid hogere strafcategorie opleggen. Bij extreem gedra
 
 ### **Artikel 52: Stelen van overheidsvoertuigen (Strafcategorie: 1)**
 
-Overheidsvoertuigen: Politie, Ambulance, ANWB en Rijkswaterstaat.
+Overheidsvoertuigen: Politie, Ambulance, Pechhulp.
 
 #### 52.1 - Toegestaan
 
@@ -1110,9 +1117,11 @@ De naam van een andere speler in je steamnaam gebruiken is verboden.
 #### 54.2 - Regels
 
 - Na rippen: 60 min wachten voor dezelfde persoon
-- Wapen mag wapen rippen + daarna doodschieten (met reden)
-- Andere rips: NIET daarna doodschieten
+- Wapen mag wapen rippen + daarna doodschieten
+- Andere rips: NIET daarna doodschieten*
 - Wapens bij fouilleren afpakken = eigen risico
+
+*Uitzondering: als de persoon een grote mond heeft en blijft provoceren/bedreigen, mag deze persoon wel worden vermoord.
 
 #### 54.3 - RDM eiland (Strafcategorie: 1)
 
