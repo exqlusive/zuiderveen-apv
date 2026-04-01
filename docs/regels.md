@@ -484,8 +484,11 @@ Het uitschelden van spelers is niet toegestaan.
 | Overtreding                                   | Strafcategorie |
 |-----------------------------------------------|----------------|
 | Schelden met ziektes gericht naar een burger  | Categorie 5    |
+| Overdreven schelden met ziektes*              | Categorie 5    |
 | Seksuele uitingen of beledigingen van vrouwen | Categorie 5    |
 | Racistische of discriminerende opmerkingen    | Categorie 6    |
+
+*Hiermee wordt bedoeld dat het er een keer er uit floept dit geen direct gevolg heeft. Wanneer het met regelmaat voorkomt krijg je hier alsnog een straf voor.*
 
 ### **Artikel 21: Standaard outfit (Strafcategorie: 1)**
 
