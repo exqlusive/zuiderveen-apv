@@ -643,7 +643,7 @@ Bij overtreding volgt de daarvoor bestemde strafcategorie. Bij herhaling wordt d
 - Scammen met voertuigen
 - Na het oplichten/scammen de desbetreffende burger vermoorden*
 
-*Als persoon na het oplichten/scammen een grote mond heeft en blijft provoceren/bedreigen, mag deze persoon wel worden vermoord.
+*Als persoon na het oplichten/scammen een grote mond heeft en blijft provoceren/bedreigen/callen, mag deze persoon wel direct worden vermoord zonder reden te benoemen.
 
 #### 32.2 - Limieten
 
@@ -722,12 +722,60 @@ De **MazeBank Arena** overval valt onder type "Grote Bank".
 ### **Artikel 34: Onderwereld Spelers (Strafcategorie: 3)**
 
 #### 34.1 - Rippen algemeen
+- **Rippen is alleen toegestaan als burger een illegale activiteit verricht of zich op eiland bevindt**
+- Je mag een burger niet doodschieten, nadat je burger hebt geript
+- Je mag een burger niet zomaar doodschieten als burger niet een bedreiging vormt (oftewel geen wapen op zak heeft)
+- In een publiekelijke loods (waar iedereen in kan), mag je een burger eisen om de loods te verlaten (Hiervoor dien je wel een wapen op zak te hebben)
+- In een publiekelijke loods (waar iedereen in kan), mag je een burger doodsteken om de loods inhoud toe te eigenen tot jezelf
+- Het is niet toegestaan om voor een volwaardige loods of cold storage garage of import document te scammen met uitzondering van sleutel toegang
+- Je mag een burger niet zonder geldige aanleiding laten stilstaan of hands-up laten doen om te controleren of diegene voldoet aan de rip-indicatoren
+- Ook wanneer een burger na staandehouding en hands-up een rip-indicator blijkt te hebben, maar niet vooraf voldeed aan de geldige aanleiding, moet deze persoon alsnog met rust gelaten worden.
+!!! example "Voorbeeld"
 
-- Niet op dezelfde locatie (500m) rippen binnen 30 minuten
-- Max. **€10.000,-** rippen (zwart of wit geld)
-- Max. **20 items** rippen bij overval met wapen
-- Geen limiet op wapens, attachments en kogels
-- Het lockpicken van voertuigen die actief worden gebruikt bij een illegale locatie is niet toegestaan (VB: Vape verwerk)
+    Voorbeeld: Je houdt iemand staande en laat hem hands-up doen. Achteraf blijkt dat deze persoon een rip-indicator heeft, maar hier was vooraf geen geldige aanleiding voor. In dit geval is rippen niet toegestaan en dient de persoon met rust gelaten te worden.
+
+!!! tip "Rippen & doden"
+
+    - Indien je een wapen van een burger afpakt op eiland, mag je deze persoon hierna **wel** doodschieten
+    - Indien je een wapen van een burger afpakt in een publiekelijke loods, mag je deze persoon hierna **wel** doodsteken
+
+!!! info "Toegestane rip-indicatoren"
+
+    - Gezichtsbedekking (Een reguliere helm geldt niet. Alleen wanneer dit gehele gezicht bedekt bijv. een zwarte helm + vizier dat gehele gezicht blokkeert met uitzondering wanneer een burger op een motorvoertuig rijd)
+    - Holster
+    - Illegale gesprekken
+    - Wapen in hand
+    - Zich bevinden op eiland
+    - Zich bevinden in een publiekelijke loods
+    - Kogelvrij vest
+
+    !!! warning "Net ingespawned"
+
+        - Wanneer burger net is ingespawned mag deze niet geript worden ongeacht of burger voldoet aan een rip-indicatie
+
+!!! success "Je mag afpakken:"
+
+    Ongeacht of burger zich bevind op land of eiland:
+
+    - Al het **zwart geld** dat burger bij heeft
+    - Alle **wapen(s)** dat burger bij heeft
+    - Alle **drugs** dat burger bij heeft
+    - Alle **communicatie middelen** dat burger bij heeft
+    - Ingrediënten om drugs te maken (legale producten) mogen **niet** afgepakt worden. Alleen dus het eindproduct!
+    - Repair kits mogen **niet** afgepakt worden.
+    - Als burger bezig is met witwassen, mag je al het witgeld ook afpakken
+
+    !!! success "Aanvulling Eiland:"
+
+        - Op eiland mag je ook al het witgeld innemen.
+
+!!! warning "Klachten & Refund tickets omtrent publiekelijke loodsen"
+
+    Publiekelijke loodsen betreden is geheel op eigen risico. Ga hier dus slim mee om! Bijvoorbeeld; laat iemand buiten scouten, zodat je veilig te werk kan gaan.
+
+    **Klachten** & **Refund** aanvragen na een ripactie in de publiekelijke loodsen zullen dus ook niet behandeld worden. Houd hier sterk rekening mee!
+
+**Let op**: fouilleren buiten een illegale activiteit zonder geldige rip-indicator betekent dat je geen items mag afpakken, inclusief wapens.
 
 #### 34.2 - Na het rippen
 
@@ -735,7 +783,7 @@ De **MazeBank Arena** overval valt onder type "Grote Bank".
 - Bij meerdere rippers: iedereen laat de persoon 2 uur met rust*
 - Doodschieten omdat iemand niet kan betalen = RDM
 
-*Uitzondering: als de persoon een grote mond heeft en blijft provoceren/bedreigen, mag deze persoon wel worden vermoord.
+*Uitzondering: Als persoon na het oplichten/scammen een grote mond heeft en blijft provoceren/bedreigen/callen, mag deze persoon wel direct worden vermoord zonder reden te benoemen.
 
 #### 34.3 - Dood is dood
 
@@ -1109,13 +1157,41 @@ De naam van een andere speler in je steamnaam gebruiken is verboden.
 ### **Artikel 54: Rippen op eiland (Strafcategorie: 2)**
 
 #### 54.1 - Limieten
+!!! tip "Rippen & doden"
 
-| Item | Eiland | Vasteland |
-| --- | --- | --- |
-| Zakjes | 75 per persoon | 20 per persoon |
-| Zwart geld | €30.000,-| €10.000,-|
+    - Indien je een wapen van een burger afpakt op eiland, mag je deze persoon hierna **wel** doodschieten
 
-*Geen witgeld rippen, ook niet laten pinnen.*
+!!! info "Toegestane rip-indicatoren"
+
+    - Wanneer burger op eiland is, mag je deze persoon rippen zonder rekening te houden met de normale rip-indicatoren.
+
+    !!! warning "Net ingespawned"
+
+        - Wanneer burger net is ingespawned mag deze niet geript worden ongeacht of burger voldoet aan een rip-indicatie
+
+!!! success "Je mag afpakken:"
+
+    Ongeacht of burger zich bevind op land of eiland:
+
+    - Al het **zwart geld** dat burger bij heeft
+    - Alle **wapen(s)** dat burger bij heeft
+    - Alle **drugs** dat burger bij heeft
+    - Alle **communicatie middelen** dat burger bij heeft
+    - Ingrediënten om drugs te maken (legale producten) mogen **niet** afgepakt worden. Alleen dus het eindproduct!
+    - Repair kits mogen **niet** afgepakt worden.
+    - Als burger bezig is met witwassen, mag je al het witgeld ook afpakken
+
+    !!! success "Aanvulling Eiland:"
+
+        - Op eiland mag je ook al het witgeld innemen.
+
+!!! warning "Klachten & Refund tickets omtrent publiekelijke loodsen"
+
+    Publiekelijke loodsen betreden is geheel op eigen risico. Ga hier dus slim mee om! Bijvoorbeeld; laat iemand buiten scouten, zodat je veilig te werk kan gaan.
+
+    **Klachten** & **Refund** aanvragen na een ripactie in de publiekelijke loodsen zullen dus ook niet behandeld worden. Houd hier sterk rekening mee!
+
+**Let op**: fouilleren buiten een illegale activiteit zonder geldige rip-indicator betekent dat je geen items mag afpakken, inclusief wapens.
 
 #### 54.2 - Regels
 
@@ -1124,7 +1200,7 @@ De naam van een andere speler in je steamnaam gebruiken is verboden.
 - Andere rips: NIET daarna doodschieten*
 - Wapens bij fouilleren afpakken = eigen risico
 
-*Uitzondering: als de persoon een grote mond heeft en blijft provoceren/bedreigen, mag deze persoon wel worden vermoord.
+*Uitzondering: Als persoon na het oplichten/scammen een grote mond heeft en blijft provoceren/bedreigen/callen, mag deze persoon wel direct worden vermoord zonder reden te benoemen.
 
 #### 54.3 - RDM eiland (Strafcategorie: 1)
 
@@ -1197,3 +1273,7 @@ De Aircraft Carrier is militair, justitieel gebied.
 ### **Artikel 60: Staff limiet**
 
 Maximaal 3 leden van elke gang mogen in het staffteam zitten (ter voorkoming van staffgangs).
+
+### **Artikel 61: Combat Gedrag**
+Wanneer we merken dat je hier puur voor de combat bent, zal je een ban ontvangen volgens bovengenoemde categorie.
+Deze ban zal besproken / uitgedeeld worden door hogerop.

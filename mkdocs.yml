@@ -36,5 +36,10 @@ theme:
 extra_css:
   - stylesheets/extra.css
 
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
 # Copyright
 copyright: Copyright &copy; 2026 ZuiderVeen
