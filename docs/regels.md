@@ -39,7 +39,7 @@
 
 ### **Artikel 4: Bedreigen / Intimideren (Straf-categorie: 8)**
 
-1. Het bedreigen of intimideren van spelers en/of staffleden met een DDoS-aanval is **ten strengste verboden**.
+1. Het in real life bedreigen of intimideren van spelers en/of staffleden is **ten strengste verboden**.
 2. Het doxen (privégegevens delen) of DDoS'en van spelers en/of staffleden is **ten strengste verboden**.
 
 ### **Artikel 5: Fail RP (Strafcategorie: 4)**
@@ -72,6 +72,10 @@ Je moet verwondingen uitspelen bij:
 | Crashen tegen andere voertuigen                         | > 85 km/u |
 | Crashen met een motor                                   | > 55 km/u |
 | Van motor afgeschoten worden                            | > 55 km/u |
+
+!!! example "Niet van toepassing bij"
+    - Een voertuig schraapt tegen een railing
+    - Een voertuig op de zijkant schuift en hierna op de wielen terechtkomt
 
 Ook bij:
 
@@ -350,9 +354,12 @@ De volgende situaties zijn **geen** geldige reden om iemand te vermoorden:
 
 #### 14.3 - Op eigen risico
 
-- Waarschuwen of pitten wordt gezien als dreiging - je mag direct uit je voertuig doodgeschoten worden
+- Waarschuwen wordt gezien als dreiging - je mag direct uit je voertuig doodgeschoten worden
 - Wegrijden tijdens een duidelijke wapenbedreiging - word je doodgeschoten, dan is dit geen RDM
 - Verbaal provoceren richting andere spelers
+- Rijden in een groep waarbij de gang dezelfde herkenningspunten heeft, is eigen risico. Zodra een van die groep wat doet, mag de rest van de groep banden geschoten worden. Herkenningspunten zijn bijvoorbeeld combinaties tussen: Dezelfde voertuig kleur of velgenkleur, maar ook kleding. Doodschieten van mensen zonder dat zij de juiste reden ervoor hebben is nog steeds KOS.
+!!! warning "Pas op:"
+    - Pitten valt niet direct onder een geldige reden.
 
 #### 14.4 - Verplichtingen
 
@@ -689,6 +696,7 @@ Alle personen die het gebouw zijn binnengegaan moeten binnen blijven totdat:
 - Bij een gestarte overval- en/of aanwezige politie: geen menging door derde partij (ook niet bij achtervolging)
 - Bij gijzeling met politie op locatie: geen menging door derde partij
 - Uitzondering: als je foto/locatie deelt over verzamelplaats hostages mag er wel gemengd worden
+- Niet gewapende betrokkenen moeten minimaal 300 meter afstand houden van de overval locatie
 
 *Outsiders mogen wel gepakt worden.*
 
@@ -1274,6 +1282,16 @@ De Aircraft Carrier is militair, justitieel gebied.
 
 Maximaal 3 leden van elke gang mogen in het staffteam zitten (ter voorkoming van staffgangs).
 
-### **Artikel 61: Combat Gedrag**
+### **Artikel 61: Combat Gedrag (straf-categorie 7)**
 Wanneer we merken dat je hier puur voor de combat bent, zal je een ban ontvangen volgens bovengenoemde categorie.
 Deze ban zal besproken / uitgedeeld worden door hogerop.
+
+### **Artikel 62: haat veroorzakend/toxic gedrag (Straf-categorie: 5)**
+- Het toxic reageren op doodverklaringen in Twitter valt onder haat veroorzakend gedrag. Voorbeelden onder bovenstaand zijn uitspraken als "L" in Twitter.
+- Het in een scenario toxic reageren omdat je het ergens niet mee eens.
+- Tickets/klachten maken over een persoon/groepering zonder goed gegronde reden zal worden gezien als ''naaien'', en zal worden bestraft.
+
+#### **Artikel 44.1: haat veroorzakend gedrag in discord (straf categorie: 5)**
+- Het toxic reageren op algemene zaken naar de bovenwereld of onderwereld wordt niet meer getolereerd. Discussies voeren mag, maar voorlopig vindt er meer vervelend gedrag naar elkaar.
+- Het toxic reageren in discord in elk kanaal, zal worden bestraft met straf-categorie 5.
+- Indien je het niet eens bent met een verkregen straf is het onnodig om in de algemene discord het stafflid belachelijk te maken of een discussie erover te beginnen. Hier hebben we ons ticketsysteem voor.
