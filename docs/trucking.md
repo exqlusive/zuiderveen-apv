@@ -17,20 +17,20 @@ Deze gids beschrijft alle routes die momenteel in `zv_trucking_tycoon` zijn geco
 
 ## Korte routekaart
 
-| Route | Min. level | Eindproduct |
-| --- | ---: | --- |
-| Gereedschap | 1 | Gereedschap |
-| Gummen | 2 | Gummen |
-| Houtkap | 6 | Planken of zaagsel |
-| Recycling | 9 | Plastic schroot / verfijnd aluminium / verfijnd tin |
-| Gekoeld | 10 | Vliegtuigmaaltijden |
-| Petrochemisch / Militair | 10 | Explosieven |
-| Sieraden | 15 | Sieraden |
-| Batterijen | 15 | Batterijen |
-| Illegale pillen | 17 | Pillen |
-| Beton | 20 | Beton |
-| Wapeningsstaal | 20 | Wapeningsstaal |
-| Huiskit | 100 | Huiskit |
+| Route                    | Min. level | Eindproduct                                         |
+|--------------------------|-----------:|-----------------------------------------------------|
+| Gereedschap              |          1 | Gereedschap                                         |
+| Gummen                   |          2 | Gummen                                              |
+| Houtkap                  |          6 | Planken of zaagsel                                  |
+| Recycling                |          9 | Plastic schroot / verfijnd aluminium / verfijnd tin |
+| Gekoeld                  |         10 | Vliegtuigmaaltijden                                 |
+| Petrochemisch / Militair |         10 | Explosieven                                         |
+| Sieraden                 |         15 | Sieraden                                            |
+| Batterijen               |         15 | Batterijen                                          |
+| Illegale pillen          |         17 | Pillen                                              |
+| Beton                    |         20 | Beton                                               |
+| Wapeningsstaal           |         20 | Wapeningsstaal                                      |
+| Huiskit                  |        100 | Huiskit                                             |
 
 ## Basisroutes
 
@@ -247,9 +247,3 @@ Deze pickups zijn op zichzelf nog geen volledige verkooproute, maar ze voeden de
 | Liquor Ace | Methamfetamine laden |
 | Illegale pillenpers | Pillen persen |
 | Zwarte markt koper | Pillen verkopen |
-
-## Praktische notities
-
-- Laad- en verkoopacties gebruiken batchkeuzes van `1`, `3` of `10`.
-- Zwaardere cargo betekent dat grotere trucks en trailers merkbaar beter uitkomen.
-- De `pounder` wordt gebruikt als een vaste midden/bovensectie-benchmark voor laadruimte.
