@@ -8,6 +8,7 @@ nav:
   - Straffen: straffen.md
   - Wetboek: wetboek.md
   - Kostenlijst: kostenlijst.md
+  - Trucking: trucking.md
 theme:
   name: material
   language: nl
