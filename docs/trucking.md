@@ -1,6 +1,4 @@
-# Transportroutes Gids Zonder XP En Geld
-
-Deze gids beschrijft alle routes die momenteel in `zv_trucking_tycoon` zijn geconfigureerd, zonder zichtbare XP-, geld- of kosteninformatie.
+# Transportroutes
 
 ## Algemene werking
 
